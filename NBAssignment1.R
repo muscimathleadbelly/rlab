@@ -1,5 +1,7 @@
 # Assignment 1
 
+setwd("~/RStudio/rlab/")
+
 # 0. print first name, last name, student ID
 
 print("first name: N, last name: B, student id: 12345")
